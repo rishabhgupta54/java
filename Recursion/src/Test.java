@@ -11,6 +11,6 @@ public class Test {
         } else {
             printArray(index - 1);
         }
-        System.out.println("[" + (index - 1) + "] = " + this.values[index]);
+        System.out.println("[" + (index - 1) + "] = " + this.values[index - 1]);
     }
 }

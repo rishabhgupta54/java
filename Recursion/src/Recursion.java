@@ -6,6 +6,6 @@ class Recursion {
             test.values[i] = i;
         }
 
-        test.printArray(9);
+        test.printArray(10);
     }
 }
